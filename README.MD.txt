@@ -1,1 +1,5 @@
-Minhas receitas ficarão aqui
+## Ingredientes 
+
+- strogonof de frango
+- strogonoff de carne
+
